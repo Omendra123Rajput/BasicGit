@@ -1,0 +1,1 @@
+This is the text file in the dir3 which is inthe master branch.
